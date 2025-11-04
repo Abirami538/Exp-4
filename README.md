@@ -7,7 +7,7 @@
 # AIM:
 To develop the Hospital Management System using Star UML.
 
-# Problem Statement:
+# SRS (Procedure):
 1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
 
 2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
